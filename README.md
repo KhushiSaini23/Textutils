@@ -1,0 +1,2 @@
+
+Text Transformer - Project Overview This project is a simple and powerful Text Utility Tool designed to manipulate text easily. Users can convert their text to uppercase or lowercase with just one click. It also allows users to copy the modified text instantly and clear it whenever needed. The project focuses on providing a fast, user-friendly, and responsive experience. It is perfect for anyone who wants quick text formatting without any hassle.c
